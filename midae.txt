@@ -1,2 +1,3 @@
 mitokonqa
-Promqna s Tortoise za da comitnemekjhgbbygb
+Promqna s Tortoise za da 
+comitneme s git(gut) bash
