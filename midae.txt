@@ -1,2 +1,2 @@
 mitokonqa
-Promqna s Tortoise
+Promqna s Tortoise za da comitneme
