@@ -1,3 +1,4 @@
 mitokonqa
 Promqna s Tortoise za da 
 comitneme s git(gut) bash
+Промяна с Bash…
